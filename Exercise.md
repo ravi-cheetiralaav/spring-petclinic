@@ -51,6 +51,9 @@ This exercise guides you through the process of using Copilot custom instruction
   - `Project_Architecture_Blueprint.md` with in-depth architectural analysis and diagrams
 
 ---
+## 5. Create a Tech Debt Remediation Plan
+
+- **Action:** Use the custom mode `tech-debt-remediation-plan` to generate a tech debt remediation plan 
 
 ## Summary
 
@@ -58,6 +61,7 @@ By following this exercise, you will:
 - Understand the workflow for creating and applying Copilot custom instructions
 - See the power of blueprint prompts in generating project-specific documentation
 - Learn to compare manual and automated documentation approaches
+- Understand  how to build and use Custom modes.
 - Produce high-quality architecture documents for your project
 
 **Recommended Next Steps:**
